@@ -15,3 +15,5 @@ A fully functional cart where users can add, remove, and update items, followed 
 ❄ Interactive Animations
 Enjoy smooth and responsive animations such as React hover effects, enhancing the user experience with modern design elements.
 
+Cloned-Amazon-website/Screenshot 2024-09-15 193057.png
+<img src="https://github.com/Rohan/Cloned-Amazon-website/Screenshot 2024-09-15 193057.png">

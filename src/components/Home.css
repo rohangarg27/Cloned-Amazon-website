@@ -1,0 +1,24 @@
+.home {
+    display: flex; /* Uncommented and added */
+    justify-content: center; /* Uncommented */
+    margin-left: auto; /* Uncommented */
+    margin-right: auto; /* Uncommented */
+    max-width: 1500px; /* Adjusted to match banner width */
+}
+
+.home-image {
+    width: 100%; /* Ensures the image fills the container width */
+    max-width: 1500px; /* Prevents the image from exceeding its original width */
+    height: 300px; /* Set the height to match the banner height */
+    object-fit: cover; /* Ensures the image covers the container without stretching, might crop */ 
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0 ,0, 0.15));
+    z-index: -1;
+    /* Remove the negative margin */
+}
+
+.home-row {
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}

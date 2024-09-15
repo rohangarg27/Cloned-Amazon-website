@@ -17,3 +17,4 @@ Enjoy smooth and responsive animations such as React hover effects, enhancing th
 
 
 <img src="https://raw.githubusercontent.com/rohangarg27/Cloned-Amazon-website/master/Screenshot%202024-09-15%20193057.png" alt="Screenshot of the project">
+<img src="https://raw.githubusercontent.com/rohangarg27/Cloned-Amazon-website/master/Screenshot%2024-09-15%193127.png" alt="Screenshot of the project">

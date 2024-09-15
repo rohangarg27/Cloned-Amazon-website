@@ -16,6 +16,4 @@ A fully functional cart where users can add, remove, and update items, followed 
 Enjoy smooth and responsive animations such as React hover effects, enhancing the user experience with modern design elements.
 
 
-<img src="https://github.com/rohangarg27/Cloned-Amazon-website/tree/master/Screenshot 2024-09-15 193057.png">
-https://github.com/rohangarg27/Cloned-Amazon-website/tree/master
 <img src="https://raw.githubusercontent.com/rohangarg27/Cloned-Amazon-website/master/Screenshot%202024-09-15%20193057.png" alt="Screenshot of the project">
